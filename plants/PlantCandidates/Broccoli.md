@@ -3,6 +3,6 @@ Broccoli
 
 
 
-* [ ] Nutrient Folder (CSV)
-* [ ] Growing Notes
-* [ ] Grow Time
+- [ ] Nutrient Folder (CSV)
+- [ ] Growing Notes
+- [ ] Grow Time
