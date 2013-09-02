@@ -1,5 +1,5 @@
-Ento's -- Utilizing 6-legged foodstuffs
-=======================================
+Ento's
+======
 
 ## Categories
 
@@ -16,7 +16,10 @@ Ento's -- Utilizing 6-legged foodstuffs
 
 ### Crickets 
 
-* G. testaceus aka Field Cricket [link](G.testaceus.md)
+#### Field Crickets
+* [G. testaceus](G.testaceus.md)
+
+
 
 ### Ants
 
