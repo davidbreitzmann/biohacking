@@ -1,6 +1,6 @@
 discussing plans for aquaponics
 
-sarah aka Siren-Siren suggested ahving 
+sarah aka Siren-Siren offered hosting a garden for growing aquaponics/vegatables/mushrooms with condition of half of the yield.
 
 each container for the plant that is growing.
 
@@ -8,12 +8,7 @@ stage the lighting
 
 companion gardening
 
-
-
-
 each container well to contain a certain type of thing
-
-
 
 
 Beans are good
@@ -38,3 +33,9 @@ prototype for a community garden
 
 achieveable and scalable 
 
+
+### Crowdtilt
+
+### Spring-project
+
+growing a
