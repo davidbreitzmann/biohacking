@@ -1,0 +1,14 @@
+|Item|Number|Item-Number|Price Each|Shipping* varies (we picked up many from local stores)|Price Before Tax|Tax|Price After Tax|Link|
+| ---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| ---: |
+|Rule Pumps Non-Automatic 12 Volt DC Bilge Pump 360 GPH 24 S|2||$14.93|$13.73|$43.59|$0.00|$43.59|http://store.waterpumpsupply.com/ru12vodcnobi.html|
+|Wired Liquid Water Sensor|2||$5.40|$0.00|$10.8|$0.00|$10.80|http://www.amazon.com/Amico-Aquarium-Liquid-Sensor-Switch/dp/B006Z965BI/ref=sr_1_6?ie=UTF8&qid=1379911353&sr=8-6&keywords=float+switch|
+|"5/8""X50' BLACK RUBBER HOSE GOODYEAR"|1|037256358784|$29.97|$0.00|$29.97|$2.70|$32.67|http://www.homedepot.com/p/Goodyear-Engineered-Products-5-8-in-x-50-ft-Premium-Commercial-Grade-Black-Rubber-Water-Hose-20258074/100676339?keyword=5%2F8%22X50%22+BLACK+RUBBER+HOSE+GOODYEAR#.UkkWFmTXjsc|
+|3/4 PVC CPLG SXS|2|049081137502|$0.21|$0.00|$0.42|$0.04|$0.46|http://www.homedepot.com/p/Mueller-Streamline-3-4-in-PVC-Schedule-40-Pressure-Slip-x-Slip-Coupling-429-007HC/100154623#.UkkV72TwLd0|
+|BRASS ADAPTER FGHXFGH SWIVEL LF|1|098268623932|$4.67|$0.00|$4.67|$0.42|$5.09|http://www.homedepot.com/p/3-4-in-Lead-Free-Brass-FGH-x-FGH-Swivel-Adapter-LFA-662/203468403?keyword=BRASS+ADAPTER+FGHXFGH+SWIVEL+LF#.UkkWAWTXjsc|
+|BRASS SHUT OFF COUPLING|1|046878279339|$5.97|$0.00|$5.97|$0.54|$6.51|http://www.homedepot.com/p/Goodyear-Engineered-Products-5-8-in-x-50-ft-Premium-Commercial-Grade-Black-Rubber-Water-Hose-20258074/100676339#.UkkU_mTwLd0|
+|"1-1/2""X1"" PVC BUSHING SPGXS"|2|049081133269|$0.84|$0.00|$1.68|$0.15|$1.83|http://www.homedepot.com/p/Mueller-Streamline-1-1-2-in-x-1-in-PVC-Schedule-40-Pressure-Spigot-x-Slip-Bushing-437-211HC/100178282#.UkkV7mTXjsc|
+|"1""X3/4"" PVC MALE ADAPTER SXMPT"|2|049081131746|$0.52|$0.00|$1.04|$0.09|$1.13|http://www.homedepot.com/p/Mueller-Streamline-3-4-in-x-1-in-PVC-Pressure-S-x-MPT-Adapter-436-102HC/100163209#.UkkVxWTXjsc|
+|"3/4"" PVC STREET EL 90D FPTXMPT"|1|049081141882|$0.98|$0.00|$0.98|$0.09|$1.07|http://www.homedepot.com/p/Mueller-Streamline-3-4-in-PVC-Schedule-40-Pressure-90-Degree-MIPT-x-FIPT-Street-Elbow-412-007HC/100185518?keyword=3%2F4%22+PVC+STREET+EL+90D+FPTXMPT#.UkkVmWTXjsc|
+|"2"" PVC STREET EL 90D SXSPG"|4|049081142421|$3.52|$0.00|$14.08|$1.27|$15.35|http://www.homedepot.com/p/t/100209465#.UkkVP2TwLd0|
+|DMV PIPE <A> 2X10 PVC40 PE SOLIDCORE PIPE|2|0000193852|$6.81|$0.00|$13.62|$1.23|$14.85|http://www.homedepot.com/p/1-1-2-in-x-10-ft-PVC-Sch-40-DWV-Plain-End-Pipe-531111/100135041?keyword=DWV+PVC40+PE+Solidcore+PIPE#.UkkVWWTXjsc|
+|"PVC TEE <A> 2 ""X1 - 1/2"" PVC TEE SXSXS"|7|049081146269|$1.82|$0.00|$12.74|$1.15|$13.89|http://www.homedepot.com/p/Mueller-Streamline-2-in-x-2-in-x-1-1-2-in-PVC-Slip-x-Slip-x-Slip-Reducing-Tee-401-251HC/100209015?keyword=PVC+TEE++2+%22X1+-+1%2F2%22+PVC+TEE+SXSXS#.UkkVfWTXjsc|
