@@ -1,4 +1,4 @@
-Item,Number,Item-Number,Price Each,Shipping* varies (we picked up many from local stores),Price Before Tax,Tax,Price After Tax,Link
+Item,Number,Item-Number,Price Each,Shipping* ($0 if picked up),Price Before Tax,Tax,Price After Tax,Link
 Rule Pumps Non-Automatic 12 Volt DC Bilge Pump 360 GPH 24 S,2,,$14.93,$13.73,$43.59,$0.00,$43.59,http://store.waterpumpsupply.com/ru12vodcnobi.html
 Wired Liquid Water Sensor,2,,$5.40,$0.00,$10.8,$0.00,$10.80,http://www.amazon.com/Amico-Aquarium-Liquid-Sensor-Switch/dp/B006Z965BI/ref=sr_1_6?ie=UTF8&qid=1379911353&sr=8-6&keywords=float+switch
 "5/8""X50' BLACK RUBBER HOSE GOODYEAR",1,037256358784,$29.97,$0.00,$29.97,$2.70,$32.67,http://www.homedepot.com/p/Goodyear-Engineered-Products-5-8-in-x-50-ft-Premium-Commercial-Grade-Black-Rubber-Water-Hose-20258074/100676339?keyword=5%2F8%22X50%22+BLACK+RUBBER+HOSE+GOODYEAR#.UkkWFmTXjsc
@@ -11,3 +11,17 @@ BRASS SHUT OFF COUPLING,1,046878279339,$5.97,$0.00,$5.97,$0.54,$6.51,http://www.
 "2"" PVC STREET EL 90D SXSPG",4,049081142421,$3.52,$0.00,$14.08,$1.27,$15.35,http://www.homedepot.com/p/t/100209465#.UkkVP2TwLd0
 DMV PIPE <A> 2X10 PVC40 PE SOLIDCORE PIPE,2,0000193852,$6.81,$0.00,$13.62,$1.23,$14.85,http://www.homedepot.com/p/1-1-2-in-x-10-ft-PVC-Sch-40-DWV-Plain-End-Pipe-531111/100135041?keyword=DWV+PVC40+PE+Solidcore+PIPE#.UkkVWWTXjsc
 "PVC TEE <A> 2 ""X1 - 1/2"" PVC TEE SXSXS",7,049081146269,$1.82,$0.00,$12.74,$1.15,$13.89,http://www.homedepot.com/p/Mueller-Streamline-2-in-x-2-in-x-1-1-2-in-PVC-Slip-x-Slip-x-Slip-Reducing-Tee-401-251HC/100209015?keyword=PVC+TEE++2+%22X1+-+1%2F2%22+PVC+TEE+SXSXS#.UkkVfWTXjsc
+6' Hose Reel Leader Hose,1,078627017176,$7.47,$0.00,$7.47,$0.67,$8.14,http://www.lowes.com/pd_20277-177-LOLH5806FM_0__?productId=1058007
+Large All Purpose Plastic Tub,1,793510000102,$12.98,$0.00,$12.98,$1.17,$14.15,http://www.homedepot.com/p/Plasgad-Large-Mixing-Tub-887102A/202086174#.UlI6DGTXjsc
+3/4x3/4x1/2BrassADPT MGHXHMIPXTAP LF,1,098268624700,$3.97,$0.00,$3.97,$0.36,$4.33,http://www.homedepot.com/p/3-4-in-x-3-4-in-Tapped-1-2-in-Lead-Free-Brass-MGH-x-MIP-Adapter-LFA-665/203468405?AID=10368321&PID=1242965&SID=0-20131007003658-0000000000--0--11785641&cm_mmc=CJ-_-1242965-_-10368321&cj=true#.UlI6bmTXjsc
+"5/8"" Female End Hose Repair",1,046878279476,$1.99,$0.00,$1.99,$0.18,$2.17,http://www.homedepot.com/p/Orbit-5-8-in-Female-Hose-Mender-27947/100659314?keyword=046878279476#.UlI6nmTXjsc
+"#012 SS CLAMP 1/2""x1-1/4""DIA",2,078575171258,$0.85,$0.00,$1.7,$0.15,$1.85,http://www.homedepot.com/p/Glacier-Bay-1-2-1-1-4-in-Hose-Repair-Clamp-6712595/202309385?keyword=078575171258#.UlI6sGTXjsc
+"#006 SS CLAMP 3/8""x7/8""DIA",2,078575170657,$0.75,$0.00,$1.5,$0.14,$1.64,http://www.homedepot.com/p/Everbilt-3-8-7-8-in-Hose-Repair-Clamp-6706595/100198182?keyword=078575170657#.UlI6vmTXjsc
+Vigoro Pea Pebbles 0.5 CU FT,2,048834000261,$3.99,$0.00,$7.98,$0.72,$8.70,http://www.homedepot.com/p/Vigoro-0-5-cu-ft-Pea-Pebbles-440773/202292873?keyword=048834000261#.UlI6zWTXjsc
+"6""x8""x16"" CONCRETE LW BLOCK",4,0000-728-810,$1.46,$0.00,$5.84,$0.53,$6.37,http://www.homedepot.com/p/Unbranded-6-in-x-8-in-x-16-in-Gray-Concrete-Block-100002879/100321956?keyword=6%22x8%22x16%22+CONCRETE+LW+BLOCK#.UlI662TXjsc
+??? Coupling Gasket ???,1,???,$1.00,$0.00,$1,$0.09,$1.09,
+Freshwater Fish,40,9,$0.10,$0.00,$4,$0.36,$4.36,
+Freshwater Fish,60,9,$0.10,$0.00,$6,$0.54,$6.54,
+Fish Supplies (Frozen feed),1,11,$1.99,$0.00,$1.99,$0.18,$2.17,
+AQUASAFE,1,046798161684,$3.99,$0.00,$3.99,$0.36,$4.35,http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=046798161684
+SPIRULINA FLK,1,046798161097,$3.69,$0.00,$3.69,$0.33,$4.02,http://www.amazon.com/Tetra-Veggie-Flakes-0-71-Ounce-100-Ml/dp/B0002APM1U/ref=sr_1_1?ie=UTF8&qid=1381120874&sr=8-1&keywords=046798161097
